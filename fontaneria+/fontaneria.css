@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+    color: #fff;
+}
+
+header {
+    background-color: #000;
+    padding: 20px;
+    text-align: center;
+}
+
+nav {
+    background-color: #333;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+    margin: 0 10px;
+}
+
+section {
+    padding: 40px;
+    border-left: 5px solid #3498db; /* Color azul elegante */
+    margin-bottom: 20px;
+}
+
+section h2 {
+    color: #3498db;
+}
+
+footer {
+    background-color: #000;
+    padding: 20px;
+    text-align: center;
+}
